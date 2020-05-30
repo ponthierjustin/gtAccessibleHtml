@@ -2,7 +2,7 @@
 
 ## Horiseon
 
-An accesible site catered towards everyone, and who are especially interested in digital marketing and its services.
+An accesible site catered towards everyone, and who are especially interested in social solution services.
 
 
 ## Installation
